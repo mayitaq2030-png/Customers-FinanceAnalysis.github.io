@@ -63,7 +63,12 @@ Leverage surplus months (Jan, May, Sep) to increase principal contributions towa
 ### Next Steps:
 
 📌 Build a 12-month predictive model for income and expenses.
+
 📌 Add forecasting for savings goal completion (Retirement, Home, Emergency).
+
 📌 Automate alerts when spending exceeds category limits.
+
 📌 Integrate multi-year financial projections into the dashboard.
+
 📌 Present insights in a finance review report for long-term planning.
+
